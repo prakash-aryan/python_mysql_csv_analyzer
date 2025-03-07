@@ -39,9 +39,9 @@ The project follows a modular architecture with clear separation of concerns, ma
 
 - **csv_importer.py**: 
   - Handles the extraction and transformation of data from CSV sources
-  - Implements robust CSV parsing with validation checks
+  - Implements CSV parsing with validation checks
   - Performs data cleaning and type conversion
-  - Executes optimized SQL INSERT operations for database loading
+  - Executes SQL INSERT operations for database loading
   - Includes detailed logging of the import process
 
 - **data_analyzer.py**: 
@@ -88,7 +88,7 @@ Before running this project, you need:
 
 1. **Clone or download the repository**:
    ```bash
-
+   git clone https://github.com/prakash-aryan/python_mysql_csv_analyzer.git
       ```
 
 2. **Create a virtual environment** (recommended):
@@ -181,7 +181,7 @@ You will see a detailed, step-by-step progress output with formatted tables show
 - Statistical analysis of the CGPA distribution
 - Identification of top performers
 
-This comprehensive output allows you to verify the entire data pipeline is functioning correctly before proceeding to the exercises.
+This output allows you to verify the entire data pipeline is functioning correctly before proceeding to the exercises.
 
 ### Step 2: Complete the SQL Query Exercises
 
@@ -355,7 +355,7 @@ The system uses a curated dataset featuring Star Wars character names to make th
 - Balanced representation across different performance categories
 - Sequential student IDs for easy reference
 
-This data structure provides an excellent foundation for practicing SQL queries ranging from simple selections to complex analytical grouping operations.
+This data structure provides a foundation for practicing SQL queries ranging from simple selections to complex analytical grouping operations.
 
 ## SQL Query Development Guide
 
