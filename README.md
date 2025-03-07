@@ -4,8 +4,7 @@
 
 This project demonstrates the integration of Python with MySQL databases for data analysis workflows. The system illustrates the complete process of importing data from CSV files into a relational database, creating appropriate table structures, and performing increasingly sophisticated SQL queries to derive meaningful insights.
 
-[Demo Video](https://github.com/user-attachments/assets/7880319f-8e92-4cd1-afc6-654045be4cdc)
-
+[Demo](https://github.com/user-attachments/assets/ef646c85-0ec6-4e8f-92b0-18af5eee43a8)
 
 Designed as both a learning tool and a practical reference implementation, this project showcases real-world data processing techniques that are commonly used in data analysis, business intelligence, and academic research settings.
 
